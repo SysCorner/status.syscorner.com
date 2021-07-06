@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Statusfy//status.syscorner.com//calendar//scheduled//EN
+NAME:Status SysCorner
+X-WR-CALNAME:Status SysCorner
+TIMEZONE-ID:UTC
+X-WR-TIMEZONE:UTC
+END:VCALENDAR
