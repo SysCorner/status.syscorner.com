@@ -13,7 +13,7 @@ jobs:
       uses: devkanro/setup-statusfy@v1
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        branch: master
+        branch: main
     - name: Build the static site.
       run: |
         npm install
