@@ -1,1 +1,0 @@
-# status.syscorner.com
