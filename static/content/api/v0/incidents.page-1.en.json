@@ -1,1 +1,1 @@
-{"count":0,"page":1,"page_size":10,"total_pages":1,"incidents":[]}
+{"count":1,"page":1,"page_size":10,"total_pages":1,"incidents":[{"id":"1fc4564f","title":"Test","description":"Test","date":"2021-07-06T17:34:57.000Z","modified":"2021-07-06T17:34:57.000Z","scheduled":null,"severity":"partial-outage","affectedsystems":["api"],"resolved":false,"content":"<p>Test</p>\n"}]}

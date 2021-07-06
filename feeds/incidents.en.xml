@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Status SysCorner</title>
         <link>https://status.syscorner.com</link>
         <description>Status of SysCorner services</description>
-        <lastBuildDate>Tue, 06 Jul 2021 17:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jul 2021 17:35:58 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.syscorner.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <link>https://status.syscorner.com/incidents/1fc4564f</link>
+            <guid>https://status.syscorner.com/incidents/1fc4564f</guid>
+            <pubDate>Tue, 06 Jul 2021 17:34:57 GMT</pubDate>
+            <description><![CDATA[Test]]></description>
+            <content:encoded><![CDATA[<p>Test</p>
+]]></content:encoded>
+        </item>
     </channel>
 </rss>
