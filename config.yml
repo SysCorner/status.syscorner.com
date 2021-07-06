@@ -11,4 +11,7 @@ locales:
 content:
   frontMatterFormat: json
   systems:
+    - cdn
+    - conversions
     - web
+    - api
