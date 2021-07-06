@@ -1,0 +1,14 @@
+title: Status SysCorner
+name: status_syscorner
+description: "Status of SysCorner services"
+defaultLocale: en
+baseUrl: "https://status.syscorner.com"
+locales:
+  - code: en
+    iso: en-US
+    name: English
+    file: en.json
+content:
+  frontMatterFormat: json
+  systems:
+    - web
