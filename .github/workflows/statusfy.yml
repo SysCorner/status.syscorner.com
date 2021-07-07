@@ -7,15 +7,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-    - name: Wait for build to succeed
-      uses: fountainhead/action-wait-for-check@v1.0.0
-      id: wait-for-build
-      with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          checkName: build
-          ref: ${{ github.event.pull_request.head.sha || github.sha }}
-      
+    steps:    
     - uses: actions/checkout@v1
     - name: Generate incident
       uses: devkanro/setup-statusfy@v1
