@@ -4,6 +4,8 @@ on:
   issues:
     types: [opened, edited, closed, reopened]
 
+concurrency: build
+
 jobs:
   build:
     runs-on: ubuntu-latest
