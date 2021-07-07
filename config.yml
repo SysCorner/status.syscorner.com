@@ -1,6 +1,6 @@
 title: Status SysCorner
 name: status_syscorner
-description: "Status of SysCorner services"
+description: "SysCorner Status Dashboard"
 defaultLocale: en
 baseUrl: "https://status.syscorner.com"
 locales:
@@ -11,7 +11,7 @@ locales:
 content:
   frontMatterFormat: json
   systems:
-    - cdn
-    - conversions
     - web
-    - api
+    - services
+    - mirrorsfr
+    - mirrorsnl

@@ -1,21 +1,23 @@
 {
-  "title": "Demo System Status",
+  "title": "SysCorner Status Dashboard",
   "description": "",
   "systems": {
     "items": {
-      "cdn": {
-        "title": "CDN"
-      },
-      "conversions": {
-        "title": "Conversions",
-        "description": "Conversions from one to other"
-      },
       "web": {
-        "title": "Web Page"
+        "title": "SysCorner Website",
+        "description": "www.syscorner.com"
       },
-      "api": {
-        "title": "API",
-        "description": "The API endpoints"
+      "services": {
+        "title": "Services",
+        "description": "Online service like privatebin.syscorner.com."
+      },
+      "mirrorsfr": {
+        "title": "Mirrors -FR",
+        "description": "Status of French mirror servers."
+      },
+      "mirrorsnl": {
+        "title": "Mirrors - NL",
+        "description": "Status of the Dutch mirror servers."
       }
     }
   }
