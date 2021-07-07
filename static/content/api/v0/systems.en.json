@@ -1,1 +1,1 @@
-[{"name":"web","status":"operational","order":1},{"name":"services","status":"operational","order":2},{"name":"mirrorsfr","status":"major-outage","order":3},{"name":"mirrorsnl","status":"major-outage","order":4}]
+[{"name":"web","status":"major-outage","order":1},{"name":"services","status":"operational","order":2},{"name":"mirrorsfr","status":"major-outage","order":3},{"name":"mirrorsnl","status":"major-outage","order":4}]
