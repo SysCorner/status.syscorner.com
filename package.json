@@ -1,6 +1,6 @@
 {
   "name": "status_syscorner",
-  "description": "Status of SysCorner Servicices",
+  "description": "SysCorner Status Dashboard",
   "version": "0.1.0",
   "private": true,
   "scripts": {
