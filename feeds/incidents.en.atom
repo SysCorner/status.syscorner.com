@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.syscorner.com</id>
     <title>Status SysCorner</title>
-    <updated>2021-07-07T14:25:38.245Z</updated>
+    <updated>2021-07-07T14:27:18.600Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.syscorner.com"/>
     <link rel="self" href="https://status.syscorner.com/feeds/incidents.en.atom"/>
     <subtitle>SysCorner Status Dashboard</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Found a bug]]></title>
+        <id>https://status.syscorner.com/incidents/71d68680</id>
+        <link href="https://status.syscorner.com/incidents/71d68680"/>
+        <updated>2021-07-07T14:26:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm having a problem with this.]]></summary>
+        <content type="html"><![CDATA[<p>I'm having a problem with this.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Found a bug]]></title>
         <id>https://status.syscorner.com/incidents/71d857fc</id>
