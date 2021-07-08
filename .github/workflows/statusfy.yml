@@ -12,7 +12,7 @@ jobs:
     steps:         
     - uses: actions/checkout@v1
     - name: Generate incident
-      uses: SysCorner/setup-statusfy@v3
+      uses: SysCorner/setup-statusfy@v4
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
