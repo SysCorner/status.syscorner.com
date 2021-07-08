@@ -4,10 +4,16 @@
         <title>Status SysCorner</title>
         <link>https://status.syscorner.com</link>
         <description>SysCorner Status Dashboard</description>
-        <lastBuildDate>Thu, 08 Jul 2021 09:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jul 2021 09:10:08 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.syscorner.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test 1]]></title>
+            <link>https://status.syscorner.com/incidents/94baa7ae</link>
+            <guid>https://status.syscorner.com/incidents/94baa7ae</guid>
+            <pubDate>Thu, 08 Jul 2021 09:09:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Found a bug]]></title>
             <link>https://status.syscorner.com/incidents/71d68680</link>
